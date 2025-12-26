@@ -1,0 +1,135 @@
+[
+  {
+    "brand": "Adidas",
+    "img": "https://uploadkon.ir/uploads/074e06_25pic01.png",
+    "name": "Adidas Stan Smith",
+    "type": "shoes",
+    "discription": "Lorem Ipsum is a dummy text generated with ease and meaningless from the printing industry and used by graphic designers. Printers and texts, not only but also newspapers and magazines in columns and lines as needed and for the current technological conditions required and diverse applications with the aim of improving practical tools. Many books in sixty-three percent of the past, present, and future require extensive knowledge of society and specialists so that computer designers, especially creative designers and pioneering culture in the English language, can have more knowledge of software. In this case, we can hope that all the difficulties present in presenting solutions and difficult typing conditions will be resolved. Lorem",
+    "price": 1000,
+    "colors": ["red", "blue", "green"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "comments": [],
+    "isFavorite": false,
+    "category": ["Women","Men"],
+    "gender": "unisex",
+    "inStock": true,
+    "discount": {
+      "price": 40
+    },
+    "seller": "bestseller"
+  },
+  {
+    "brand": "Allen Solly",
+    "img": "https://uploadkon.ir/uploads/927206_25pic02.png",
+    "name": "products",
+    "type":"bag",
+    "discription": "Lorem Ipsum is a dummy text generated with ease and meaningless from the printing industry and used by graphic designers. Printers and texts, not only but also newspapers and magazines in columns and lines as needed and for the current technological conditions required and diverse applications with the aim of improving practical tools. Many books in sixty-three percent of the past, present, and future require extensive knowledge of society and specialists so that computer designers, especially creative designers and pioneering culture in the English language, can have more knowledge of software. In this case, we can hope that all the difficulties present in presenting solutions and difficult typing conditions will be resolved. Lorem",
+    "price": 2750,
+    "colors": ["red", "blue", "green"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "comments": [],
+    "category": ["Women"],
+    "isFavorite": false,
+    "gender": "female",
+    "inStock": true,
+    "discount": {
+      "price": 1500
+    },
+    "seller": "bestseller"
+  },
+  {
+    "brand": "Allen Solly",
+    "img": "https://uploadkon.ir/uploads/81b806_25pic03.png",
+    "name": "products",
+    "type": "T-Shirt",
+    "discription": "Lorem Ipsum is a dummy text generated with ease and meaningless from the printing industry and used by graphic designers. Printers and texts, not only but also newspapers and magazines in columns and lines as needed and for the current technological conditions required and diverse applications with the aim of improving practical tools. Many books in sixty-three percent of the past, present, and future require extensive knowledge of society and specialists so that computer designers, especially creative designers and pioneering culture in the English language, can have more knowledge of software. In this case, we can hope that all the difficulties present in presenting solutions and difficult typing conditions will be resolved. Lorem",
+    "price": 3621,
+    "colors": ["red", "blue", "green"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "comments": [],
+    "isFavorite": false,
+    "category": ["Men"],
+    "gender": "male",
+    "inStock": true,
+    "discount": {
+      "price": 3600
+    },
+    "seller": "bestseller"
+  },
+  {
+    "brand": "Allen Solly",
+    "img": "https://uploadkon.ir/uploads/2df706_25pic04.png",
+    "name": "products",
+    "type": "clothes",
+    "discription": "Lorem Ipsum is a dummy text generated with ease and meaningless from the printing industry and used by graphic designers. Printers and texts, not only but also newspapers and magazines in columns and lines as needed and for the current technological conditions required and diverse applications with the aim of improving practical tools. Many books in sixty-three percent of the past, present, and future require extensive knowledge of society and specialists so that computer designers, especially creative designers and pioneering culture in the English language, can have more knowledge of software. In this case, we can hope that all the difficulties present in presenting solutions and difficult typing conditions will be resolved. Lorem",
+    "price": 512,
+    "colors": ["red", "blue", "green"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "comments": [],
+    "isFavorite": false,
+    "category": ["Men"],
+    "gender": "male",
+    "inStock": true,
+    "discount": {
+      "price": 50
+    },
+    "seller": "bestseller"
+  },
+  {
+    "brand": "Allen Solly",
+    "img": "https://uploadkon.ir/uploads/de6606_25pic05.png",
+    "name": "products",
+    "type": "watch",
+    "discription": "Lorem Ipsum is a dummy text generated with ease and meaningless from the printing industry and used by graphic designers. Printers and texts, not only but also newspapers and magazines in columns and lines as needed and for the current technological conditions required and diverse applications with the aim of improving practical tools. Many books in sixty-three percent of the past, present, and future require extensive knowledge of society and specialists so that computer designers, especially creative designers and pioneering culture in the English language, can have more knowledge of software. In this case, we can hope that all the difficulties present in presenting solutions and difficult typing conditions will be resolved. Lorem",
+    "price": 900,
+    "colors": ["red", "blue", "green"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "comments": [],
+    "isFavorite": false,
+    "category": ["Men"],
+    "gender": "male",
+    "inStock": true,
+    "discount": {
+      "price": 400
+    },
+    "seller": "bestseller"
+  },
+  {
+    "brand": "Allen Solly",
+    "img": "https://uploadkon.ir/uploads/fe0b06_25pic06.png",
+    "name": "products",
+    "type": "clothes",
+    "discription": "Lorem Ipsum is a dummy text generated with ease and meaningless from the printing industry and used by graphic designers. Printers and texts, not only but also newspapers and magazines in columns and lines as needed and for the current technological conditions required and diverse applications with the aim of improving practical tools. Many books in sixty-three percent of the past, present, and future require extensive knowledge of society and specialists so that computer designers, especially creative designers and pioneering culture in the English language, can have more knowledge of software. In this case, we can hope that all the difficulties present in presenting solutions and difficult typing conditions will be resolved. Lorem",
+    "price": 325,
+    "colors": ["red", "blue", "green"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "comments": [],
+    "isFavorite": false,
+    "category": ["kids"],
+    "gender": "gril",
+    "inStock": true,
+    "discount": {
+      "price": 60
+    },
+    "seller": "bestseller"
+  },
+  {
+    "brand": "Allen Solly",
+    "img": "https://uploadkon.ir/uploads/403506_25pin08.png",
+    "name": "products",
+    "type": "shoes",
+    "discription": "Lorem Ipsum is a dummy text generated with ease and meaningless from the printing industry and used by graphic designers. Printers and texts, not only but also newspapers and magazines in columns and lines as needed and for the current technological conditions required and diverse applications with the aim of improving practical tools. Many books in sixty-three percent of the past, present, and future require extensive knowledge of society and specialists so that computer designers, especially creative designers and pioneering culture in the English language, can have more knowledge of software. In this case, we can hope that all the difficulties present in presenting solutions and difficult typing conditions will be resolved. Lorem",
+    "price": 9682,
+    "colors": ["red", "blue", "green"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "comments": [],
+    "isFavorite": false,
+    "category": ["Women"],
+    "gender": "female",
+    "inStock": true,
+    "discount": {
+      "price": 800
+    },
+    "seller": "bestseller"
+  }
+]
